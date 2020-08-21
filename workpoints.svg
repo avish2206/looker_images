@@ -1,0 +1,393 @@
+<?xml version="1.0"?>
+<svg data-generator-version="9" height="280" viewBox="0 0 300 280" width="300" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <rect fill="#f6f6f7" height="280" width="300" x="0" y="0"/>
+  <rect fill="#ffffff" height="20" rx="2" ry="2" width="167" x="66" xmlns="http://www.w3.org/2000/svg" y="5"/>
+  <svg height="20" preserveAspectRatio="xMidYMid meet" viewBox="0 0 835 50" width="167" x="66" xmlns="http://www.w3.org/2000/svg" y="5">
+    <line class="color1" stroke="#A4A6A9" stroke-linecap="round" stroke-width="16" x1="197" x2="637" y1="25" y2="25"/>
+  </svg>
+  <rect fill="#ffffff" height="20" rx="2" ry="2" width="93" x="54" xmlns="http://www.w3.org/2000/svg" y="30"/>
+  <svg height="20" preserveAspectRatio="xMidYMid meet" viewBox="0 0 465 50" width="93" x="54" xmlns="http://www.w3.org/2000/svg" y="30">
+    <line class="color1" stroke="#A4A6A9" stroke-linecap="round" stroke-width="16" x1="106" x2="358" y1="25" y2="25"/>
+  </svg>
+  <rect fill="#ffffff" height="20" rx="2" ry="2" width="93" x="152" xmlns="http://www.w3.org/2000/svg" y="30"/>
+  <svg height="20" preserveAspectRatio="xMidYMid meet" viewBox="0 0 465 50" width="93" x="152" xmlns="http://www.w3.org/2000/svg" y="30">
+    <line class="color1" stroke="#A4A6A9" stroke-linecap="round" stroke-width="16" x1="122" x2="342" y1="25" y2="25"/>
+  </svg>
+  <svg data-aspect-ratio="wide" data-slug="column_stacked" data-variant="a" height="70" preserveAspectRatio="none" viewBox="0 0 272 102" width="142" x="5" xmlns="http://www.w3.org/2000/svg" y="55">
+    <g id="ref1974" transform="translate(18226 11612)">
+      <clipPath clip-rule="evenodd" id="ref1971">
+        <path d="M -18226 -11612L -17954 -11612L -17954 -11510L -18226 -11510L -18226 -11612Z" fill="#FFFFFF"/>
+      </clipPath>
+      <g clip-path="url(#ref1971)" id="ref1973">
+        <path d="M -18226 -11612L -17954 -11612L -17954 -11510L -18226 -11510L -18226 -11612Z" fill="#FFFFFF"/>
+        <g id="ref1972">
+          <use fill="#FFFFFF" transform="translate(-18226 -11612)" xlink:href="#ref1975"/>
+        </g>
+        <g class="color1">
+          <use fill="#62bad4" transform="translate(-18222 -11544.6)" xlink:href="#ref1976"/>
+        </g>
+        <g class="color2">
+          <use fill="#a9c574" transform="matrix(1 0 0 -1 -18222 -11544.6)" xlink:href="#ref1977"/>
+        </g>
+        <g class="color3">
+          <use fill="#929292" transform="translate(-18222 -11580.7)" xlink:href="#ref1978"/>
+        </g>
+        <g class="color4">
+          <use fill="#9fdee0" transform="matrix(1 0 0 -1 -18222 -11580.7)" xlink:href="#ref1979"/>
+        </g>
+        <g class="color1">
+          <use fill="#62bad4" transform="translate(-18189 -11536)" xlink:href="#ref1980"/>
+        </g>
+        <g class="color2">
+          <use fill="#a9c574" transform="matrix(1 0 0 -1 -18189 -11536)" xlink:href="#ref1981"/>
+        </g>
+        <g class="color3">
+          <use fill="#929292" transform="translate(-18189 -11566.7)" xlink:href="#ref1982"/>
+        </g>
+        <g class="color4">
+          <use fill="#9fdee0" transform="matrix(1 0 0 -1 -18189 -11566.7)" xlink:href="#ref1983"/>
+        </g>
+        <g class="color1">
+          <use fill="#62bad4" transform="translate(-18155 -11576.1)" xlink:href="#ref1984"/>
+        </g>
+        <g class="color2">
+          <use fill="#a9c574" transform="matrix(1 0 0 -1 -18155 -11576.1)" xlink:href="#ref1985"/>
+        </g>
+        <g class="color3">
+          <use fill="#929292" transform="translate(-18155 -11594)" xlink:href="#ref1986"/>
+        </g>
+        <g class="color4">
+          <use fill="#9fdee0" transform="matrix(1 0 0 -1 -18155 -11594)" xlink:href="#ref1987"/>
+        </g>
+        <g class="color1">
+          <use fill="#62bad4" transform="translate(-18122 -11560.9)" xlink:href="#ref1988"/>
+        </g>
+        <g class="color2">
+          <use fill="#a9c574" transform="matrix(1 0 0 -1 -18122 -11560.9)" xlink:href="#ref1989"/>
+        </g>
+        <g class="color3">
+          <use fill="#929292" transform="translate(-18122 -11577.9)" xlink:href="#ref1990"/>
+        </g>
+        <g class="color4">
+          <use fill="#9fdee0" transform="matrix(1 0 0 -1 -18122 -11577.9)" xlink:href="#ref1991"/>
+        </g>
+        <g class="color1">
+          <use fill="#62bad4" transform="translate(-18088 -11537.6)" xlink:href="#ref1992"/>
+        </g>
+        <g class="color2">
+          <use fill="#a9c574" transform="matrix(1 0 0 -1 -18088 -11537.6)" xlink:href="#ref1993"/>
+        </g>
+        <g class="color3">
+          <use fill="#929292" transform="translate(-18088 -11566.4)" xlink:href="#ref1994"/>
+        </g>
+        <g class="color4">
+          <use fill="#9fdee0" transform="matrix(1 0 0 -1 -18088 -11566.4)" xlink:href="#ref1995"/>
+        </g>
+        <g class="color1">
+          <use fill="#62bad4" transform="translate(-18055 -11536)" xlink:href="#ref1980"/>
+        </g>
+        <g class="color2">
+          <use fill="#a9c574" transform="matrix(1 0 0 -1 -18055 -11536)" xlink:href="#ref1981"/>
+        </g>
+        <g class="color3">
+          <use fill="#929292" transform="translate(-18055 -11574.2)" xlink:href="#ref1996"/>
+        </g>
+        <g class="color4">
+          <use fill="#9fdee0" transform="matrix(1 0 0 -1 -18055 -11574.2)" xlink:href="#ref1997"/>
+        </g>
+        <g class="color1">
+          <use fill="#62bad4" transform="translate(-18021 -11563)" xlink:href="#ref1998"/>
+        </g>
+        <g class="color2">
+          <use fill="#a9c574" transform="matrix(1 0 0 -1 -18021 -11563)" xlink:href="#ref1999"/>
+        </g>
+        <g class="color3">
+          <use fill="#929292" transform="translate(-18021 -11577.4)" xlink:href="#ref2000"/>
+        </g>
+        <g class="color4">
+          <use fill="#9fdee0" transform="matrix(1 0 0 -1 -18021 -11577.4)" xlink:href="#ref2001"/>
+        </g>
+        <g class="color1">
+          <use fill="#62bad4" transform="translate(-17987 -11567.1)" xlink:href="#ref2002"/>
+        </g>
+        <g class="color2">
+          <use fill="#a9c574" transform="matrix(1 0 0 -1 -17987 -11567.1)" xlink:href="#ref2003"/>
+        </g>
+        <g class="color3">
+          <use fill="#929292" transform="translate(-17987 -11586.1)" xlink:href="#ref2004"/>
+        </g>
+        <g class="color4">
+          <use fill="#9fdee0" transform="matrix(1 0 0 -1 -17987 -11586.1)" xlink:href="#ref2005"/>
+        </g>
+      </g>
+    </g>
+    <defs>
+      <path d="M 0 2C 0 0.895431 0.895431 0 2 0L 270 0C 271.105 0 272 0.895431 272 2L 272 100C 272 101.105 271.105 102 270 102L 2 102C 0.895431 102 0 101.105 0 100L 0 2Z" id="ref1975"/>
+      <path d="M 0 0L 29 0L 29 34.649L 0 34.649L 0 0Z" id="ref1976"/>
+      <path d="M 0 0L 29 0L 29 22.1754L 0 22.1754L 0 0Z" id="ref1977"/>
+      <path d="M 0 0L 29 0L 29 13.8596L 0 13.8596L 0 0Z" id="ref1978"/>
+      <path d="M 0 0L 29 0L 29 8.31576L 0 8.31576L 0 0Z" id="ref1979"/>
+      <path d="M 0 0L 30 0L 30 26.0001L 0 26.0001L 0 0Z" id="ref1980"/>
+      <path d="M 0 0L 30 0L 30 18.6667L 0 18.6667L 0 0Z" id="ref1981"/>
+      <path d="M 0 0L 30 0L 30 12L 0 12L 0 0Z" id="ref1982"/>
+      <path d="M 0 0L 30 0L 30 9.33337L 0 9.33337L 0 0Z" id="ref1983"/>
+      <path d="M 0 0L 29 0L 29 66.1112L 0 66.1112L 0 0Z" id="ref1984"/>
+      <path d="M 0 0L 29 0L 29 10.8889L 0 10.8889L 0 0Z" id="ref1985"/>
+      <path d="M 0 0L 29 0L 29 7.00001L 0 7.00001L 0 0Z" id="ref1986"/>
+      <path d="M 0 0L 29 0L 29 7.00001L 0 7.00001L 0 0Z" id="ref1987"/>
+      <path d="M 0 0L 30 0L 30 50.9433L 0 50.9433L 0 0Z" id="ref1988"/>
+      <path d="M 0 0L 30 0L 30 9.1981L 0 9.1981L 0 0Z" id="ref1989"/>
+      <path d="M 0 0L 30 0L 30 7.78301L 0 7.78301L 0 0Z" id="ref1990"/>
+      <path d="M 0 0L 30 0L 30 7.07547L 0 7.07547L 0 0Z" id="ref1991"/>
+      <path d="M 0 0L 29 0L 29 27.6314L 0 27.6314L 0 0Z" id="ref1992"/>
+      <path d="M 0 0L 29 0L 29 17.6841L 0 17.6841L 0 0Z" id="ref1993"/>
+      <path d="M 0 0L 29 0L 29 11.0525L 0 11.0525L 0 0Z" id="ref1994"/>
+      <path d="M 0 0L 29 0L 29 6.63153L 0 6.63153L 0 0Z" id="ref1995"/>
+      <path d="M 0 0L 30 0L 30 20.25L 0 20.25L 0 0Z" id="ref1996"/>
+      <path d="M 0 0L 30 0L 30 15.75L 0 15.75L 0 0Z" id="ref1997"/>
+      <path d="M 0 0L 30 0L 30 53.0343L 0 53.0343L 0 0Z" id="ref1998"/>
+      <path d="M 0 0L 30 0L 30 8.73507L 0 8.73507L 0 0Z" id="ref1999"/>
+      <path d="M 0 0L 30 0L 30 5.6154L 0 5.6154L 0 0Z" id="ref2000"/>
+      <path d="M 0 0L 30 0L 30 5.6154L 0 5.6154L 0 0Z" id="ref2001"/>
+      <path d="M 0 0L 29 0L 29 57.0564L 0 57.0564L 0 0Z" id="ref2002"/>
+      <path d="M 0 0L 29 0L 29 10.3018L 0 10.3018L 0 0Z" id="ref2003"/>
+      <path d="M 0 0L 29 0L 29 8.71694L 0 8.71694L 0 0Z" id="ref2004"/>
+      <path d="M 0 0L 29 0L 29 7.92449L 0 7.92449L 0 0Z" id="ref2005"/>
+    </defs>
+  </svg>
+  <svg data-aspect-ratio="wide" data-slug="column_stacked" data-variant="b" height="70" preserveAspectRatio="none" viewBox="0 0 272 102" width="142" x="152" xmlns="http://www.w3.org/2000/svg" y="55">
+    <g id="ref2052" transform="translate(17914 11612)">
+      <clipPath clip-rule="evenodd" id="ref2049">
+        <path d="M -17914 -11612L -17642 -11612L -17642 -11510L -17914 -11510L -17914 -11612Z" fill="#FFFFFF"/>
+      </clipPath>
+      <g clip-path="url(#ref2049)" id="ref2051">
+        <path d="M -17914 -11612L -17642 -11612L -17642 -11510L -17914 -11510L -17914 -11612Z" fill="#FFFFFF"/>
+        <g id="ref2050">
+          <use fill="#FFFFFF" transform="translate(-17914 -11612)" xlink:href="#ref2053"/>
+        </g>
+        <g class="color1">
+          <use fill="#62bad4" transform="translate(-17910 -11544.6)" xlink:href="#ref2054"/>
+        </g>
+        <g class="color2">
+          <use fill="#4276BE" transform="matrix(1 0 0 -1 -17910 -11544.6)" xlink:href="#ref2055"/>
+        </g>
+        <g class="color3">
+          <use fill="#9d989e" transform="translate(-17910 -11580.7)" xlink:href="#ref2056"/>
+        </g>
+        <g class="color1">
+          <use fill="#62bad4" transform="translate(-17877 -11536)" xlink:href="#ref2058"/>
+        </g>
+        <g class="color2">
+          <use fill="#4276BE" transform="matrix(1 0 0 -1 -17877 -11536)" xlink:href="#ref2059"/>
+        </g>
+        <g class="color3">
+          <use fill="#9d989e" transform="translate(-17877 -11566.7)" xlink:href="#ref2060"/>
+        </g>
+        <g class="color1">
+          <use fill="#62bad4" transform="translate(-17843 -11545)" xlink:href="#ref2062"/>
+        </g>
+        <g class="color2">
+          <use fill="#4276BE" transform="matrix(1 0 0 -1 -17843 -11545)" xlink:href="#ref2063"/>
+        </g>
+        <g class="color3">
+          <use fill="#9d989e" transform="translate(-17843 -11572.3)" xlink:href="#ref2064"/>
+        </g>
+        <g class="color1">
+          <use fill="#62bad4" transform="translate(-17810 -11554)" xlink:href="#ref2066"/>
+        </g>
+        <g class="color2">
+          <use fill="#4276BE" transform="matrix(1 0 0 -1 -17810 -11554)" xlink:href="#ref2067"/>
+        </g>
+        <g class="color3">
+          <use fill="#9d989e" transform="translate(-17810 -11575.9)" xlink:href="#ref2068"/>
+        </g>
+        <g class="color1">
+          <use fill="#62bad4" transform="translate(-17776 -11537.6)" xlink:href="#ref2070"/>
+        </g>
+        <g class="color2">
+          <use fill="#4276BE" transform="matrix(1 0 0 -1 -17776 -11537.6)" xlink:href="#ref2071"/>
+        </g>
+        <g class="color3">
+          <use fill="#9d989e" transform="translate(-17776 -11566.4)" xlink:href="#ref2072"/>
+        </g>
+        <g class="color1">
+          <use fill="#62bad4" transform="translate(-17743 -11543)" xlink:href="#ref2074"/>
+        </g>
+        <g class="color2">
+          <use fill="#4276BE" transform="matrix(1 0 0 -1 -17743 -11543)" xlink:href="#ref2075"/>
+        </g>
+        <g class="color3">
+          <use fill="#9d989e" transform="translate(-17743 -11576.3)" xlink:href="#ref2076"/>
+        </g>
+        <g class="color1">
+          <use fill="#62bad4" transform="translate(-17709 -11564.2)" xlink:href="#ref2078"/>
+        </g>
+        <g class="color2">
+          <use fill="#4276BE" transform="matrix(1 0 0 -1 -17709 -11564.2)" xlink:href="#ref2079"/>
+        </g>
+        <g class="color3">
+          <use fill="#9d989e" transform="translate(-17709 -11591.2)" xlink:href="#ref2080"/>
+        </g>
+        <g class="color1">
+          <use fill="#62bad4" transform="translate(-17675 -11556.6)" xlink:href="#ref2082"/>
+        </g>
+        <g class="color2">
+          <use fill="#4276BE" transform="matrix(1 0 0 -1 -17675 -11556.6)" xlink:href="#ref2083"/>
+        </g>
+        <g class="color3">
+          <use fill="#9d989e" transform="translate(-17675 -11578.8)" xlink:href="#ref2084"/>
+        </g>
+      </g>
+    </g>
+    <defs>
+      <path d="M 0 2C 0 0.895431 0.895431 0 2 0L 270 0C 271.105 0 272 0.895431 272 2L 272 100C 272 101.105 271.105 102 270 102L 2 102C 0.895431 102 0 101.105 0 100L 0 2Z" id="ref2053"/>
+      <path d="M 0 0L 29 0L 29 34.649L 0 34.649L 0 0Z" id="ref2054"/>
+      <path d="M 0 0L 29 0L 29 22.1754L 0 22.1754L 0 0Z" id="ref2055"/>
+      <path d="M 0 0L 29 0L 29 13.8596L 0 13.8596L 0 0Z" id="ref2056"/>
+      <path d="M 0 0L 29 0L 29 8.31576L 0 8.31576L 0 0Z" id="ref2057"/>
+      <path d="M 0 0L 30 0L 30 26.0001L 0 26.0001L 0 0Z" id="ref2058"/>
+      <path d="M 0 0L 30 0L 30 18.6667L 0 18.6667L 0 0Z" id="ref2059"/>
+      <path d="M 0 0L 30 0L 30 12L 0 12L 0 0Z" id="ref2060"/>
+      <path d="M 0 0L 30 0L 30 9.33337L 0 9.33337L 0 0Z" id="ref2061"/>
+      <path d="M 0 0L 29 0L 29 35L 0 35L 0 0Z" id="ref2062"/>
+      <path d="M 0 0L 29 0L 29 16.6252L 0 16.6252L 0 0Z" id="ref2063"/>
+      <path d="M 0 0L 29 0L 29 10.6876L 0 10.6876L 0 0Z" id="ref2064"/>
+      <path d="M 0 0L 29 0L 29 10.6876L 0 10.6876L 0 0Z" id="ref2065"/>
+      <path d="M 0 0L 30 0L 30 44L 0 44L 0 0Z" id="ref2066"/>
+      <path d="M 0 0L 30 0L 30 11.8528L 0 11.8528L 0 0Z" id="ref2067"/>
+      <path d="M 0 0L 30 0L 30 10.0293L 0 10.0293L 0 0Z" id="ref2068"/>
+      <path d="M 0 0L 30 0L 30 9.11752L 0 9.11752L 0 0Z" id="ref2069"/>
+      <path d="M 0 0L 29 0L 29 27.6314L 0 27.6314L 0 0Z" id="ref2070"/>
+      <path d="M 0 0L 29 0L 29 17.6841L 0 17.6841L 0 0Z" id="ref2071"/>
+      <path d="M 0 0L 29 0L 29 11.0525L 0 11.0525L 0 0Z" id="ref2072"/>
+      <path d="M 0 0L 29 0L 29 6.63153L 0 6.63153L 0 0Z" id="ref2073"/>
+      <path d="M 0 0L 30 0L 30 33L 0 33L 0 0Z" id="ref2074"/>
+      <path d="M 0 0L 30 0L 30 16.247L 0 16.247L 0 0Z" id="ref2075"/>
+      <path d="M 0 0L 30 0L 30 17.625L 0 17.625L 0 0Z" id="ref2076"/>
+      <path d="M 0 0L 30 0L 30 13.7083L 0 13.7083L 0 0Z" id="ref2077"/>
+      <path d="M 0 0L 30 0L 30 54.2465L 0 54.2465L 0 0Z" id="ref2078"/>
+      <path d="M 0 0L 30 0L 30 20.4931L 0 20.4931L 0 0Z" id="ref2079"/>
+      <path d="M 0 0L 30 0L 30 6.76923L 0 6.76923L 0 0Z" id="ref2080"/>
+      <path d="M 0 0L 30 0L 30 6.76924L 0 6.76924L 0 0Z" id="ref2081"/>
+      <path d="M 0 0L 29 0L 29 46.6465L 0 46.6465L 0 0Z" id="ref2082"/>
+      <path d="M 0 0L 29 0L 29 14.6342L 0 14.6342L 0 0Z" id="ref2083"/>
+      <path d="M 0 0L 29 0L 29 7.97284L 0 7.97284L 0 0Z" id="ref2084"/>
+      <path d="M 0 0L 29 0L 29 7.24804L 0 7.24804L 0 0Z" id="ref2085"/>
+    </defs>
+  </svg>
+  <rect fill="#ffffff" height="20" rx="2" ry="2" width="216" x="41" xmlns="http://www.w3.org/2000/svg" y="130"/>
+  <svg height="20" preserveAspectRatio="xMidYMid meet" viewBox="0 0 1080 50" width="216" x="41" xmlns="http://www.w3.org/2000/svg" y="130">
+    <line class="color1" stroke="#A4A6A9" stroke-linecap="round" stroke-width="16" x1="248" x2="831" y1="25" y2="25"/>
+  </svg>
+  <svg data-aspect-ratio="wide" data-slug="column_stacked" data-variant="d" height="70" preserveAspectRatio="none" viewBox="0 0 272 102" width="142" x="5" xmlns="http://www.w3.org/2000/svg" y="155">
+    <g id="ref2178" transform="translate(18226 11474)">
+      <clipPath clip-rule="evenodd" id="ref2175">
+        <path d="M -18226 -11474L -17954 -11474L -17954 -11372L -18226 -11372L -18226 -11474Z" fill="#FFFFFF"/>
+      </clipPath>
+      <g clip-path="url(#ref2175)" id="ref2177">
+        <path d="M -18226 -11474L -17954 -11474L -17954 -11372L -18226 -11372L -18226 -11474Z" fill="#FFFFFF"/>
+        <g id="ref2176">
+          <use fill="#FFFFFF" transform="translate(-18226 -11473)" xlink:href="#ref2179"/>
+        </g>
+        <g class="color1">
+          <use fill="#62bad4" transform="translate(-18222 -11400.9)" xlink:href="#ref2180"/>
+        </g>
+        <g class="color2">
+          <use fill="#a9c574" transform="matrix(1 0 0 -1 -18222 -11400.9)" xlink:href="#ref2181"/>
+        </g>
+        <g class="color1">
+          <use fill="#62bad4" transform="translate(-18169 -11401.5)" xlink:href="#ref2184"/>
+        </g>
+        <g class="color2">
+          <use fill="#a9c574" transform="matrix(1 0 0 -1 -18169 -11401.5)" xlink:href="#ref2185"/>
+        </g>
+        <g class="color1">
+          <use fill="#62bad4" transform="translate(-18115 -11396)" xlink:href="#ref2188"/>
+        </g>
+        <g class="color2">
+          <use fill="#a9c574" transform="matrix(1 0 0 -1 -18115 -11396)" xlink:href="#ref2189"/>
+        </g>
+        <g class="color1">
+          <use fill="#62bad4" transform="translate(-18060 -11420.1)" xlink:href="#ref2192"/>
+        </g>
+        <g class="color2">
+          <use fill="#a9c574" transform="matrix(1 0 0 -1 -18060 -11420.1)" xlink:href="#ref2193"/>
+        </g>
+        <g class="color1">
+          <use fill="#62bad4" transform="translate(-18006 -11399.5)" xlink:href="#ref2196"/>
+        </g>
+        <g class="color2">
+          <use fill="#a9c574" transform="matrix(1 0 0 -1 -18006 -11399.5)" xlink:href="#ref2197"/>
+        </g>
+      </g>
+    </g>
+    <defs>
+      <path d="M 0 2C 0 0.895431 0.895431 0 2 0L 270 0C 271.105 0 272 0.895431 272 2L 272 100C 272 101.105 271.105 102 270 102L 2 102C 0.895431 102 0 101.105 0 100L 0 2Z" id="ref2179"/>
+      <path d="M 0 0L 49 0L 49 28.9477L 0 28.9477L 0 0Z" id="ref2180"/>
+      <path d="M 0 0L 49 0L 49 18.5265L 0 18.5265L 0 0Z" id="ref2181"/>
+      <path d="M 0 0L 49 0L 49 11.5791L 0 11.5791L 0 0Z" id="ref2182"/>
+      <path d="M 0 0L 49 0L 49 6.94744L 0 6.94744L 0 0Z" id="ref2183"/>
+      <path d="M 0 0L 50 0L 50 29.5455L 0 29.5455L 0 0Z" id="ref2184"/>
+      <path d="M 0 0L 50 0L 50 21.2121L 0 21.2121L 0 0Z" id="ref2185"/>
+      <path d="M 0 0L 50 0L 50 13.6364L 0 13.6364L 0 0Z" id="ref2186"/>
+      <path d="M 0 0L 50 0L 50 10.6061L 0 10.6061L 0 0Z" id="ref2187"/>
+      <path d="M 0 0L 51 0L 51 23.9724L 0 23.9724L 0 0Z" id="ref2188"/>
+      <path d="M 0 0L 51 0L 51 11.387L 0 11.387L 0 0Z" id="ref2189"/>
+      <path d="M 0 0L 51 0L 51 7.32021L 0 7.32021L 0 0Z" id="ref2190"/>
+      <path d="M 0 0L 51 0L 51 7.32022L 0 7.32022L 0 0Z" id="ref2191"/>
+      <path d="M 0 0L 50 0L 50 48.1063L 0 48.1063L 0 0Z" id="ref2192"/>
+      <path d="M 0 0L 50 0L 50 12.9589L 0 12.9589L 0 0Z" id="ref2193"/>
+      <path d="M 0 0L 50 0L 50 10.9653L 0 10.9653L 0 0Z" id="ref2194"/>
+      <path d="M 0 0L 50 0L 50 9.96842L 0 9.96842L 0 0Z" id="ref2195"/>
+      <path d="M 0 0L 48 0L 48 28.5087L 0 28.5087L 0 0Z" id="ref2196"/>
+      <path d="M 0 0L 48 0L 48 18.2456L 0 18.2456L 0 0Z" id="ref2197"/>
+      <path d="M 0 0L 48 0L 48 11.4035L 0 11.4035L 0 0Z" id="ref2198"/>
+      <path d="M 0 0L 48 0L 48 6.84209L 0 6.84209L 0 0Z" id="ref2199"/>
+    </defs>
+  </svg>
+  <svg data-aspect-ratio="wide" data-slug="line" data-variant="c" height="70" preserveAspectRatio="none" viewBox="0 0 272 102" width="142" x="152" xmlns="http://www.w3.org/2000/svg" y="155">
+    <g id="ref2660" transform="translate(17602 9272)">
+      <clipPath clip-rule="evenodd" id="ref2657">
+        <path d="M -17602 -9272L -17330 -9272L -17330 -9170L -17602 -9170L -17602 -9272Z" fill="#FFFFFF"/>
+      </clipPath>
+      <g clip-path="url(#ref2657)" id="ref2659">
+        <path d="M -17602 -9272L -17330 -9272L -17330 -9170L -17602 -9170L -17602 -9272Z" fill="#FFFFFF"/>
+        <g id="ref2658">
+          <use fill="#FFFFFF" transform="translate(-17602 -9272)" xlink:href="#ref2661"/>
+        </g>
+        <g class="color1">
+          <use fill="#3eb0d5" transform="translate(-17603.1 -9252.06)" xlink:href="#ref2663"/>
+        </g>
+        <g class="color3">
+          <use fill="#c2dd67" transform="matrix(-1 -6.25694e-17 2.39695e-16 -1 -17327 -9196.43)" xlink:href="#ref2664"/>
+        </g>
+        <g class="color2">
+          <use fill="#b1399e" transform="translate(-17607 -9217.56)" xlink:href="#ref2665"/>
+        </g>
+      </g>
+    </g>
+    <defs>
+      <path d="M 0 2C 0 0.895431 0.895431 0 2 0L 270 0C 271.105 0 272 0.895431 272 2L 272 100C 272 101.105 271.105 102 270 102L 2 102C 0.895431 102 0 101.105 0 100L 0 2Z" id="ref2661"/>
+      <path d="M 138.042 16.3527L 137.807 18.3388L 138.131 18.3772L 138.451 18.3104L 138.042 16.3527ZM 71.2121 13.7836L 71.1295 11.7853L 70.917 11.7941L 70.711 11.8474L 71.2121 13.7836ZM 204.872 22.3551L 204.148 24.2194L 204.872 24.5007L 205.596 24.2194L 204.872 22.3551ZM 238.287 9.37553L 237.805 7.43436L 237.681 7.46506L 237.563 7.51124L 238.287 9.37553ZM 171.457 9.37553L 172.181 7.51124L 171.628 7.29658L 171.048 7.41776L 171.457 9.37553ZM 104.627 12.4024L 104.862 10.4162L 104.704 10.3975L 104.544 10.4041L 104.627 12.4024ZM 37.7972 22.432L 37.4653 24.4043L 37.8856 24.475L 38.2983 24.3682L 37.7972 22.432ZM 205.596 24.2194L 239.011 11.2398L 237.563 7.51124L 204.148 20.4908L 205.596 24.2194ZM 238.768 11.3167L 276.565 1.94117L 275.602 -1.94117L 237.805 7.43436L 238.768 11.3167ZM 170.733 11.2398L 204.148 24.2194L 205.596 20.4908L 172.181 7.51124L 170.733 11.2398ZM 138.451 18.3104L 171.866 11.3333L 171.048 7.41776L 137.633 14.3949L 138.451 18.3104ZM 71.2947 15.7819L 104.71 14.4007L 104.544 10.4041L 71.1295 11.7853L 71.2947 15.7819ZM 104.392 14.3886L 137.807 18.3388L 138.277 14.3665L 104.862 10.4162L 104.392 14.3886ZM -0.331944 18.0428L 37.4653 24.4043L 38.1291 20.4598L 0.331944 14.0982L -0.331944 18.0428ZM 38.2983 24.3682L 71.7133 15.7198L 70.711 11.8474L 37.2961 20.4958L 38.2983 24.3682Z" id="ref2662"/>
+      <path d="M 138.042 0L 139.241 -1.60095L 137.45 -2.94151L 136.317 -1.01299L 138.042 0ZM 71.2121 29.4317L 71.686 27.4886L 71.2561 27.3838L 70.8221 27.4701L 71.2121 29.4317ZM 204.872 36.9988L 204.197 38.8815L 204.524 38.9988L 204.872 38.9988L 204.872 36.9988ZM 239.86 36.9988L 239.86 38.9988L 240.255 38.9988L 240.62 38.8487L 239.86 36.9988ZM 171.457 25.0197L 170.258 26.6206L 170.499 26.8009L 170.782 26.9023L 171.457 25.0197ZM 114.545 40L 114.072 41.9431L 115.517 42.2955L 116.27 41.013L 114.545 40ZM 37.7972 36.0754L 37.0867 37.9449L 37.6237 38.149L 38.1872 38.037L 37.7972 36.0754ZM 204.872 38.9988L 239.86 38.9988L 239.86 34.9988L 204.872 34.9988L 204.872 38.9988ZM 240.62 38.8487L 277.823 23.5602L 276.303 19.8604L 239.1 35.1489L 240.62 38.8487ZM 170.782 26.9023L 204.197 38.8815L 205.547 35.1161L 172.132 23.137L 170.782 26.9023ZM 136.843 1.60095L 170.258 26.6206L 172.656 23.4187L 139.241 -1.60095L 136.843 1.60095ZM 70.7382 31.3747L 114.072 41.9431L 115.019 38.0569L 71.686 27.4886L 70.7382 31.3747ZM 116.27 41.013L 139.766 1.01299L 136.317 -1.01299L 112.821 38.987L 116.27 41.013ZM -0.710512 23.5802L 37.0867 37.9449L 38.5077 34.2058L 0.710512 19.8411L -0.710512 23.5802ZM 38.1872 38.037L 71.6021 31.3933L 70.8221 27.4701L 37.4072 34.1138L 38.1872 38.037Z" id="ref2663"/>
+      <path d="M 138.042 40.5643L 138.34 38.5866L 137.78 38.5023L 137.258 38.7242L 138.042 40.5643ZM 71.2121 0L 72.7308 -1.30139L 71.0714 -3.23783L 69.5863 -1.16474L 71.2121 0ZM 204.872 7.56712L 206.374 6.24691L 204.872 4.5373L 203.369 6.24691L 204.872 7.56712ZM 238.287 45.592L 236.784 46.9122L 237.344 47.5486L 238.19 47.5896L 238.287 45.592ZM 171.457 45.592L 171.159 47.5697L 172.239 47.7321L 172.959 46.9122L 171.457 45.592ZM 114.545 50.5683L 113.027 51.8697L 113.98 52.9826L 115.329 52.4085L 114.545 50.5683ZM 37.7972 46.6437L 37.568 48.6305L 38.7375 48.7654L 39.4231 47.8084L 37.7972 46.6437ZM 203.369 8.88733L 236.784 46.9122L 239.789 44.2718L 206.374 6.24691L 203.369 8.88733ZM 238.19 47.5896L 278.924 49.5646L 279.118 45.5693L 238.384 43.5943L 238.19 47.5896ZM 172.959 46.9122L 206.374 8.88733L 203.369 6.24691L 169.955 44.2718L 172.959 46.9122ZM 137.744 42.5421L 171.159 47.5697L 171.754 43.6142L 138.34 38.5866L 137.744 42.5421ZM 69.6934 1.30139L 113.027 51.8697L 116.064 49.2669L 72.7308 -1.30139L 69.6934 1.30139ZM 115.329 52.4085L 138.825 42.4045L 137.258 38.7242L 113.762 48.7282L 115.329 52.4085ZM -0.229222 44.2698L 37.568 48.6305L 38.0264 44.6569L 0.229222 40.2961L -0.229222 44.2698ZM 39.4231 47.8084L 72.838 1.16474L 69.5863 -1.16474L 36.1714 45.4789L 39.4231 47.8084Z" id="ref2664"/>
+      <path d="M 140.004 5.56211L 139.68 3.58852L 139.138 3.67739L 138.718 4.03015L 140.004 5.56211ZM 72.224 4.58336L 73.0856 2.77845L 72.7626 2.62426L 72.4061 2.59167L 72.224 4.58336ZM 207.783 12.4444L 207.094 14.3218L 207.427 14.4444L 207.783 14.4444L 207.783 12.4444ZM 243.269 12.4444L 244.346 10.7592L 243.853 10.4444L 243.269 10.4444L 243.269 12.4444ZM 173.893 0L 174.583 -1.87743L 174.089 -2.05883L 173.569 -1.9736L 173.893 0ZM 116.173 25.5621L 115.312 27.367L 116.473 27.9214L 117.459 27.0941L 116.173 25.5621ZM 38.3343 1.48505L 38.5164 -0.506643L 38.0438 -0.549845L 37.6023 -0.376163L 38.3343 1.48505ZM 207.783 14.4444L 243.269 14.4444L 243.269 10.4444L 207.783 10.4444L 207.783 14.4444ZM 242.191 14.1295L 279.923 38.2473L 282.077 34.877L 244.346 10.7592L 242.191 14.1295ZM 173.204 1.87743L 207.094 14.3218L 208.472 10.5669L 174.583 -1.87743L 173.204 1.87743ZM 140.327 7.53571L 174.217 1.9736L 173.569 -1.9736L 139.68 3.58852L 140.327 7.53571ZM 71.3625 6.38827L 115.312 27.367L 117.035 23.7572L 73.0856 2.77845L 71.3625 6.38827ZM 117.459 27.0941L 141.289 7.09408L 138.718 4.03015L 114.887 24.0301L 117.459 27.0941ZM 0.732042 18.4237L 39.0663 3.34626L 37.6023 -0.376163L -0.732042 14.7013L 0.732042 18.4237ZM 38.1522 3.47674L 72.042 6.57506L 72.4061 2.59167L 38.5164 -0.506643L 38.1522 3.47674Z" id="ref2665"/>
+    </defs>
+  </svg>
+  <rect fill="#ffffff" height="20" rx="2" ry="2" width="117" x="91" xmlns="http://www.w3.org/2000/svg" y="230"/>
+  <svg height="20" preserveAspectRatio="xMidYMid meet" viewBox="0 0 585 50" width="117" x="91" xmlns="http://www.w3.org/2000/svg" y="230">
+    <line class="color1" stroke="#A4A6A9" stroke-linecap="round" stroke-width="16" x1="237" x2="347" y1="25" y2="25"/>
+  </svg>
+  <rect fill="#ffffff" height="20" rx="2" ry="2" width="56" x="54" xmlns="http://www.w3.org/2000/svg" y="255"/>
+  <svg height="20" preserveAspectRatio="xMidYMid meet" viewBox="0 0 280 50" width="56" x="54" xmlns="http://www.w3.org/2000/svg" y="255">
+    <line class="color1" stroke="#A4A6A9" stroke-linecap="round" stroke-width="16" x1="96" x2="183" y1="25" y2="25"/>
+  </svg>
+  <rect fill="#ffffff" height="20" rx="2" ry="2" width="68" x="115" xmlns="http://www.w3.org/2000/svg" y="255"/>
+  <svg height="20" preserveAspectRatio="xMidYMid meet" viewBox="0 0 340 50" width="68" x="115" xmlns="http://www.w3.org/2000/svg" y="255">
+    <line class="color1" stroke="#A4A6A9" stroke-linecap="round" stroke-width="16" x1="133" x2="206" y1="25" y2="25"/>
+  </svg>
+  <rect fill="#ffffff" height="20" rx="2" ry="2" width="56" x="189" xmlns="http://www.w3.org/2000/svg" y="255"/>
+  <svg height="20" preserveAspectRatio="xMidYMid meet" viewBox="0 0 280 50" width="56" x="189" xmlns="http://www.w3.org/2000/svg" y="255">
+    <line class="color1" stroke="#A4A6A9" stroke-linecap="round" stroke-width="16" x1="71" x2="208" y1="25" y2="25"/>
+  </svg>
+</svg>
